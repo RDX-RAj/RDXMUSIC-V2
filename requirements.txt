@@ -27,6 +27,6 @@ youtube-search
 youtube-search-python
 git+https://github.com/AsmSafone/SafoneAPI
 httpx==0.25.2
-future==0.18.3
+future==1.0.0
 wget
 python-telegram-bot==20.7
