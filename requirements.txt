@@ -11,7 +11,7 @@ numpy<2
 pillow==9.5.0
 psutil
 pycountry
-py-tgcalls==0.9.7
+py-tgcalls==3.0.0
 pykeyboard
 pyrogram==2.0.106
 python-dotenv
