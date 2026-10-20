@@ -8,7 +8,7 @@ hachoir
 heroku3
 motor
 numpy<2
-pillow==9.5.0
+pillow==13.0.0
 psutil
 pycountry
 py-tgcalls==0.9.7
